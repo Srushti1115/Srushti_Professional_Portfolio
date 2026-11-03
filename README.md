@@ -25,8 +25,8 @@ My academic background and professional experience include biological sciences, 
 
 ## Certificates
 
-- [Post Graduate Diploma in Clinical Research](Clinical_Research_Diploma.pdf)
-- [Medical Coding Certificate](Srushti_Mancharkar_Medical_Coding_Certificate.pdf)
+- [Post Graduate Diploma in Clinical Research](./Srushti_Mancharkar_JCL_Certificate.pdf)
+- [Medical Coding Certificate](./Srushti_Mancharkar_Medical_Coding_Certificate.pdf)
 
 ## Contact
 
