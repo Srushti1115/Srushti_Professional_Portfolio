@@ -1,7 +1,7 @@
 
 # Srushti Mancharkar
 
-### Biotechnology Postgraduate | Biological Sciences | Clinical Research | Quality Assurance | Medical Coding
+### Healthcare Analytics | Biotechnology Postgraduate | Biological Sciences | Clinical Research | Quality Assurance | Medical Coding
 
 Welcome to my Professional Portfolio!
 
@@ -30,6 +30,14 @@ I hold an MSc in Biotechnology, a BSc in Zoology and a Post Graduate Diploma in 
 - Medical Record Review
 - ICD-10-CM
 - CPT and HCPCS Coding
+
+## Currently Pursuing
+
+**Professional Certification Program in Healthcare Analytics with AI**  
+**CoachX.Live | Pune, Maharashtra – 411045**  
+*Currently Enrolled*
+
+Developing interdisciplinary knowledge and practical skills in healthcare analytics, artificial intelligence, data analysis and healthcare information systems, with a focus on data-driven decision-making in the healthcare sector.
 
 ## Professional Portfolio
 
