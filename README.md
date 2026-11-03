@@ -1,7 +1,7 @@
 
 # Srushti Mancharkar
 
-### Biotechnology | Biological Sciences | Clinical Research
+### Biotechnology Postgraduate | Biological Sciences | Clinical Research | Quality Assurance | Medical Coding
 
 Welcome to my Professional Portfolio!
 
@@ -9,14 +9,27 @@ I hold an MSc in Biotechnology, a BSc in Zoology and a Post Graduate Diploma in 
 
 ## Areas of Knowledge
 
-- Biological Sciences and Biotechnology
+### Biotechnology and Biological Sciences
 - Molecular Biology and Cell Biology
 - Genetics and Biochemistry
-- Human Anatomy and Physiology
 - Microbiology
-- Clinical Research and Documentation
-- Quality Assurance
-- Medical Coding (ICD-10-CM, CPT and HCPCS)
+- Human Anatomy and Physiology
+- Biological Sciences and Biotechnology
+
+### Clinical Research and Quality Assurance
+- Clinical Trial Phases I–IV
+- ICH-GCP Principles
+- Clinical Research Documentation
+- Clinical Data Review and Verification
+- Quality Assurance and SOP Compliance
+- Data Discrepancy Identification
+- Audit Readiness and Documentation Review
+
+### Medical Documentation and Coding
+- Medical Terminology
+- Medical Record Review
+- ICD-10-CM
+- CPT and HCPCS Coding
 
 ## Professional Portfolio
 
