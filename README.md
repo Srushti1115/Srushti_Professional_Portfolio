@@ -1,2 +1,34 @@
-# Srushti_Professional_Portfolio
-Biotechnology, Biological Sciences and Clinical Research
+# Srushti Mancharkar
+
+### Professional Portfolio | Biotechnology | Biological Sciences | Clinical Research
+
+Welcome to my professional portfolio!
+
+I hold an MSc in Biotechnology, a BSc in Zoology and a Post Graduate Diploma in Clinical Research.
+
+My academic background and professional experience include biological sciences, biotechnology, clinical research, quality assurance and medical documentation.
+
+## Areas of Knowledge
+
+- Biological Sciences and Biotechnology
+- Molecular Biology and Cell Biology
+- Genetics and Biochemistry
+- Human Anatomy and Physiology
+- Microbiology
+- Clinical Research and Documentation
+- Quality Assurance
+- Medical Coding
+
+## Professional Portfolio
+
+[View My Professional Portfolio](Srushti_Mancharkar_Portfolio.pdf)
+
+## Certificates
+
+- [Post Graduate Diploma in Clinical Research](Clinical_Research_Diploma.pdf)
+- [Medical Coding Certificate](Srushti_Mancharkar_Medical_Coding_Certificate.pdf)
+
+## Contact
+
+- **Email:** srushtimancharkar1115@gmail.com
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/srushti-mancharkar-231342217)
