@@ -1,8 +1,8 @@
 # Srushti Mancharkar
 
-### Professional Portfolio | Biotechnology | Biological Sciences | Clinical Research
+### Biotechnology | Biological Sciences | Clinical Research
 
-Welcome to my professional portfolio!
+Welcome to my Professional Portfolio!
 
 I hold an MSc in Biotechnology, a BSc in Zoology and a Post Graduate Diploma in Clinical Research.
 
